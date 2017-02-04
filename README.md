@@ -8,6 +8,8 @@
 
 **You can compare this testing approach with [a different testing strategy][kataSuperHeroesAndroid] where the application UI is tested using just Espresso.**
 
+
+
 ---
 
 ## Getting started
